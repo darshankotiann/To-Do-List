@@ -3,7 +3,7 @@ It is  dynamic To-Do-List where you can create multiples routes as per you requi
 your url "http://localhost:3000" to "http://localhost:3000/study".
 
 ***Set Up***
-1. open Hyper Terminal.
-2.install all the all the modules by typing "npm install or i".
-3.run app.js by typing "node app.js"
-4.go to url of "http://localhost:3000"
+# open Hyper Terminal.
+# install all the all the modules by typing "npm install or i".
+# run app.js by typing "node app.js"
+# go to url of "http://localhost:3000"
