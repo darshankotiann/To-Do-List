@@ -6,4 +6,4 @@ your url "http://localhost:3000" to "http://localhost:3000/study".
 # open Hyper Terminal.
 # install all the all the modules by typing "npm install or i".
 # run app.js by typing "node app.js"
-# go to url of "http://localhost:3000"
+# Open your local host url
